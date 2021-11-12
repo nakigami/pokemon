@@ -1,6 +1,9 @@
 const PokemonList = () => {
     return(
-        <div></div>
-
+        <div>
+            Pokemon list
+        </div>
     )
 }
+
+export default PokemonList;
